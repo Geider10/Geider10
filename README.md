@@ -8,12 +8,12 @@
 <h3 align="left">👨‍💻 Acerca de mí</h3>
 <p align="left">Soy estudiante de la tecnicatura en Desarrollo de Software y comencé mi formación en 2021. Tengo experiencia desarrollando aplicaciones web y móviles full stack, además, participé en proyectos donde aporté valor y mejoré mis habilidades de colaboración. Me apasiona crear soluciones tecnológicas que facilite la vida de las personas.</p>
 
- * Mi portfolio <a href="https://geiderfrias.vercel.app/">click.</a>
+ * Mi portfolio <a href="https://geiderfrias.vercel.app/" target="_blank">click.</a>
  * Disponible para trabjar.
  * Estoy abierto a colaboraciones.
 ##
 
-<h3 align="left">🛠 Tecnologias</h3>
+<h3 align="left">🛠 Tecnologías</h3>
 
 <p align="center">
 
@@ -52,21 +52,27 @@
 <h3 align="left">♻️ Mis redes</h3>
 
 <div align="left">
-   <a href="https://www.linkedin.com/in/geiderfrias/">
-      <span>
-         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-      </span>
+   <a href="https://www.linkedin.com/in/geiderfrias/" target="_blank" rel="noopener noreferrer">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
    </a>
 
-   <a href="mailto:geider.frias@gmail.com"> 
-      <span>
-         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-      </span>
+   <a href="mailto:geider.frias@gmail.com" target="_blank" rel="noopener noreferrer"> 
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
    </a>
 
-   <a href="https://wa.me/541161539624?text=Hola Geider,queria contactar con vos para:">
-      <span>
-         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-      </span>
+   <a href="https://wa.me/541161539624?text=Hola Geider,queria contactar con vos para:" target="_blank" rel="noopener noreferrer">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
    </a>
 </div>
+
+
+##
+<h3 align="left">📊 Estadísticas de Github:</h3>
+
+<div align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=Geider10&show_icons=true&theme=dark&locale=en" alt="anii693" height="160px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Geider10&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" height="160px"/>
+</div>
+
+
+
