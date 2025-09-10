@@ -3,19 +3,20 @@
 -->
 
 <h1 align="center">
-  <b>Hola, Soy Geider Frias</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b>Hola, Soy Yoel</b>
 </h1>
 
-<div> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></div>
-
 <h3 align="left">👨‍💻 Acerca de mí</h3>
-<p align="left">Soy estudiante de la Tecnicatura en Desarrollo de Software y comencé mi formación en 2021. Tengo experiencia desarrollando aplicaciones web y móviles. Además, trabajé en equipo lo que me permitió fortalecer mis habilidades blandas y consolidar mis conocimientos técnicos.</p>
+<p align="left">Soy estudiante de la Tecnicatura en Desarrollo de Software y tengo experiencia creando aplicaciones. 
+Me especializo en aplicar buenas prácticas, desarrollar funcionalidades y entender las necesidades del 
+negocio. Mi objetivo es sumarme a un equipo para contribuir con mi experiencia y para seguir creciendo 
+profesionalmente. Disfruto trabajar en equipo e intercambiar ideas.</p>
 
 <ul>
-  <li>Mi portafolio: <a href="https://geiderfrias.vercel.app/" target="_blank">clic aquí</a></li>
   <li>Disponible para trabajar</li>
-  <li>Actualmente aprendiendo Docker y AWS</li>
+  <li>Actualmente aprendiendo AWS</li>
+  <li>Practicando y mejorando mi inglés conversacional</li>
 </ul>
 
 ##
@@ -25,57 +26,35 @@
 <p align="center">
 
     
-- **Frontend**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![BootStrap]( https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+- **Lenguajes**:
+  
+   ![C#](https://img.shields.io/badge/c%23-5C2D91.svg?style=for-the-badge&logo=csharp&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
-   ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
 
-
-- **Backend**:
-
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- **Frameworks**:
+  
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+- **Bases de datos**:
+
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   
 - **Herramientas**:
-
+  
   ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-
-
+  ![AWS](https://img.shields.io/badge/AWS-yellow.svg?style=for-the-badge&logoColor=white)
+  
 </p>
 
 ##
-<h3 align="left">📩 Contáctame</h3>
 
-<div align="left">
-   <a href="https://www.linkedin.com/in/geiderfrias/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-   </a>
-
-   <a href="mailto:geider.frias@gmail.com" target="_blank" rel="noopener noreferrer"> 
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-   </a>
-
-   <a href="https://wa.me/541161539624?text=Hola Geider como estas, deseo contactar con vos para" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-   </a>
-</div>
-
+📌 **Mi portafolio: <a href="https://geiderfrias.vercel.app/" target="_blank">clic aquí</a>**
 
 ##
 <h3 align="left">📊 Estadísticas de Github</h3>
