@@ -8,15 +8,13 @@
 </h1>
 
 <h3 align="left">👨‍💻 Acerca de mí</h3>
-<p align="left">Soy estudiante de la Tecnicatura en Desarrollo de Software y tengo experiencia creando aplicaciones. 
-Me especializo en aplicar buenas prácticas, desarrollar funcionalidades y entender las necesidades del 
-negocio. Mi objetivo es sumarme a un equipo para contribuir con mi experiencia y para seguir creciendo 
-profesionalmente. Disfruto trabajar en equipo e intercambiar ideas.</p>
+<p align="left">Soy estudiante de la Tecnicatura en Software, tengo sólidos conocimientos que me permiten encarar 
+proyectos y resolver requerimientos de la empresa. Mi objetivo es contribuir con mi experiencia, asumir 
+nuevos desafíos y seguir creciendo profesionalmente. Actualmente estoy mejorando mi inglés y 
+aprendiendo tecnologías claves como AWS, Microservicios.</p>
 
 <ul>
   <li>Disponible para trabajar</li>
-  <li>Actualmente aprendiendo AWS</li>
-  <li>Practicando y mejorando mi inglés conversacional</li>
 </ul>
 
 ##
@@ -60,8 +58,8 @@ profesionalmente. Disfruto trabajar en equipo e intercambiar ideas.</p>
 <h3 align="left">📊 Estadísticas de Github</h3>
 
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=Geider10&show_icons=true&theme=dark&locale=en" alt="Geider10" height="160px"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Geider10&show_icons=true&theme=dark&locale=en&layout=compact" alt="Geider10" height="160px"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Geider10&show_icons=true&theme=dark&cache_seconds=1800" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Geider10&layout=compact&theme=dark&cache_seconds=1800" />
 </div>
 
 
