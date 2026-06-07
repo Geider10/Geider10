@@ -8,10 +8,10 @@
 </h1>
 
 <h3 align="left">👨‍💻 Acerca de mí</h3>
-<p align="left">Soy estudiante de la Tecnicatura en Software, tengo sólidos conocimientos que me permiten encarar 
-proyectos y resolver requerimientos de la empresa. Mi objetivo es contribuir con mi experiencia, asumir 
-nuevos desafíos y seguir creciendo profesionalmente. Actualmente estoy mejorando mi inglés y 
-aprendiendo tecnologías claves como AWS, Microservicios.</p>
+<p align="left">Soy estudiante de la Tecnicatura en Desarrollo de Software, tengo sólidos conocimientos que me permiten 
+encarar proyectos y resolver tareas. Mi objetivo es contribuir con mi experiencia, asumir nuevos desafíos y 
+seguir creciendo profesionalmente. Actualmente estoy mejorando mi inglés y aprendiendo tecnologías 
+como AWS y Microservicios.</p>
 
 <ul>
   <li>Disponible para trabajar</li>
